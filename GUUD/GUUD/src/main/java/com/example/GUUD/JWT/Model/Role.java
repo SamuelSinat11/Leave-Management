@@ -5,5 +5,6 @@ public enum Role {
     Staff,
     Reviewer,
     Approver,
-    Admin
+    Admin,
+    USER,
 }
